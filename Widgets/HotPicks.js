@@ -351,7 +351,7 @@ async function getMovies(params = {}) {
     const type = params.sort;
     const sortBy = params.sort_by; // 获取排序方式
 
-    const response = await Widget.http.get('https://raw.githubusercontent.com/2kuai/ForwardWidgets/main/data/movies-data.json', {
+    const response = await Widget.http.get('https://cdn.jsdelivr.net/gh/2kuai/ForwardWidgets/main/data/movies-data.json', {
       headers: {
         "User-Agent": USER_AGENT
       }
