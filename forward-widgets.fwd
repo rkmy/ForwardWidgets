@@ -9,26 +9,8 @@
       "description": "获取最新热门影片推荐",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "两块",
-      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/HotPicks.js"
-    },
-    {
-      "id": "tv_live",
-      "title": "电视台",
-      "description": "获取热门电视直播频道",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "两块",
-      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/TvLive.js"
-    },
-    {
-      "id": "vod_sream",
-      "title": "VOD Stream",
-      "description": "获取聚合VOD影片资源",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "两块",
-      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/VodStream.js"
+      "author": "两块-自改",
+      "url": "https://raw.githubusercontent.com/rkmy/ForwardWidgets/refs/heads/main/Widgets/HotPicks.js"
     },
   ]
 }
